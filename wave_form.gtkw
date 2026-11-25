@@ -1,0 +1,49 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Nov 25 07:56:03 2026
+[*]
+[dumpfile] "C:\Users\l\Desktop\adder_project\adder.vcd"
+[dumpfile_mtime] "Wed Nov 25 07:50:41 2026"
+[dumpfile_size] 1770
+[savefile] "C:\Users\l\Desktop\adder_project\wave_form.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -35 -35
+*-3.921819 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_four_bit_adder.
+[sst_width] 197
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@800022
+tb_four_bit_adder.A[3:0]
+@28
+(0)tb_four_bit_adder.A[3:0]
+(1)tb_four_bit_adder.A[3:0]
+(2)tb_four_bit_adder.A[3:0]
+(3)tb_four_bit_adder.A[3:0]
+@1001200
+-group_end
+@800022
+tb_four_bit_adder.B[3:0]
+@28
+(0)tb_four_bit_adder.B[3:0]
+(1)tb_four_bit_adder.B[3:0]
+(2)tb_four_bit_adder.B[3:0]
+(3)tb_four_bit_adder.B[3:0]
+@1001200
+-group_end
+@28
+tb_four_bit_adder.Cin
+tb_four_bit_adder.Cout
+@800023
+tb_four_bit_adder.Sum[3:0]
+@29
+(0)tb_four_bit_adder.Sum[3:0]
+(1)tb_four_bit_adder.Sum[3:0]
+(2)tb_four_bit_adder.Sum[3:0]
+(3)tb_four_bit_adder.Sum[3:0]
+@1001201
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
